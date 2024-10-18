@@ -1,0 +1,7 @@
+<button (click)="addUser()">Add User</button>
+<ul>
+  <li *ngFor="let user of users$ | async">
+    {{ user.username }}
+    <button (click)="deleteUser(user.id)">Delete</button>
+  </li>
+</ul>

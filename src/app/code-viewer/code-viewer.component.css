@@ -1,0 +1,11 @@
+.code-container {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #282c34;
+    color: #61dafb;
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: auto;
+    text-align: left;
+  }
+  

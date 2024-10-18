@@ -1,0 +1,13 @@
+.debug-panel {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+    overflow: auto;
+    max-height: 300px;
+  }
+  
+  .debug-panel h3 {
+    margin: 0 0 10px;
+  }
+  
